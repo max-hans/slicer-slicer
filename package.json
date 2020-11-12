@@ -1,0 +1,23 @@
+{
+  "name": "slicer-slicer",
+  "version": "1.0.0",
+  "description": "this is highly experimental. never let your printer run without paying attention! especially not with gcode generated with this script!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/max-hans/slicer-slicer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/max-hans/slicer-slicer/issues"
+  },
+  "homepage": "https://github.com/max-hans/slicer-slicer#readme",
+  "dependencies": {
+    "command-line-args": "^5.1.1",
+    "fs-extra": "^9.0.1"
+  }
+}

@@ -6,6 +6,8 @@ this script is used to slice edges created from a slicer into smaller chunks. i 
 
 **this is highly experimental. never let your printer run with gcode generated with this script without paying attention!**
 
+![logo](github/slicer-slicer-logo.png)
+
 ## install
 
 cd into this directory and run:

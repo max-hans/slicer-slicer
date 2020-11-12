@@ -46,21 +46,28 @@ G1 X0.1 Y20 Z0.3 F5000 ; - G1 X0.1 Y20 Z0.3 F5000.0 ; Move to start position 20/
 
 ## install
 
+clone directory:
+
+```
+git clone https://github.com/max-hans/slicer-slicer.git
+```
+
 cd into this directory and run:
 
 ```
+cd slicer-slicer
 npm install
 ```
 
 ## run
 
-cd into this repo and run:
+when in this directory run:
 
 ```
 node src/index.js -p c:\path\to\your\file\yourgcode.gcode
 ```
 
-_(dont forget replacing the path with the path to your code)_
+_dont forget replacing the path with the path to your code. usually dragging a file into the terminal works, too_
 
 ## options
 

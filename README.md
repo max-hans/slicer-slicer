@@ -11,6 +11,7 @@ this script is used to slice edges created from a slicer into smaller chunks. i 
 ## what it does
 
 this was made in a hurry to achieve something for a very specific use case.
+for a robotics project i needed gcode, that has a high resolution for moves. so even straight moves needed to be split into smaller steps.
 
 it will turn this:
 

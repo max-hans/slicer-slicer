@@ -1,3 +1,5 @@
+![logo](github/slicer-slicer-logo.png)
+
 # slicer-slicer
 
 this script is used to slice edges created from a slicer into smaller chunks. i use it for robotics, no idea what someone else could use it for.
@@ -5,8 +7,6 @@ this script is used to slice edges created from a slicer into smaller chunks. i 
 ## !!! warning !!!
 
 **this is highly experimental. never let your printer run with gcode generated with this script without paying attention!**
-
-![logo](github/slicer-slicer-logo.png)
 
 ## what it does
 
